@@ -3,3 +3,30 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+header{
+  height: 400px;
+  background-image:url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+
+header .heading{
+  padding: 20px;
+  color: #808080;
+}
+
+main{
+  display: frex;
+  justify-content: center;
+  margin: 0 auto;
+  padding-top: 20px;
+  padding-bottom: 50px;
+  width: 840px;
+}
+
+.menu-item{
+  margin-top: 30px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #808080;
+}
